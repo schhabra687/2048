@@ -1,0 +1,3 @@
+1. undo
+2. score
+3. restricted movement
